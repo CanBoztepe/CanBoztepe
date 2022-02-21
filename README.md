@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Testy or Can
+- 👋 Hi, I’m Can
 - 👀 I’m interested in Front-End developing
 - 🌱 I’m currently learning Vue.js, Javascript, HTML, CSS
 
